@@ -1,0 +1,23 @@
+{
+  "name": "openarchive-distiller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "cheerio": "^0.20.0",
+    "gulp": "^3.9.1",
+    "gulp-dest": "^0.2.3",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-size": "^2.1.0",
+    "public-eye": "0.0.5",
+    "through2": "^2.0.1"
+  }
+}
